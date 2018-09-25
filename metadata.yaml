@@ -1,11 +1,16 @@
 _repo: Deutsche-Flagge-sei-gegru0xdft-Friedens-und-Kriegsfahrten-der-Hanse-Kriegs-und-Friedenstaten-__57032
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57032-h/images/cover.jpg
 creator:
   author:
     agent_name: Satow, Hans
     gutenberg_agent_id: '49154'
     url: http://www.gutenberg.org/2009/agents/49154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57032#Deutsche-Flagge-sei-gegru0xdft-Friedens-und-Kriegsfahrten-der-Hanse-Kriegs-und-Friedenstaten-_
 gutenberg_issued: '2018-04-23'
 gutenberg_type: Text
 identifiers:
